@@ -1,4 +1,4 @@
-# My R Programming Notes - Anahita Saghafi 
+# My R Programming Notes - Anahita Saghafi - May 2014
 
 ## Help
 
