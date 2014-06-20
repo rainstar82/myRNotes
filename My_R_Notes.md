@@ -1,11 +1,11 @@
-# My R Programming Notes - Anahita Saghafi - May 2014
+# My R Programming Notes - Anahita Saghafi 
 
 ## Help
 
 For help use "?"", 
 For function argument details use "args"
   
-## How toa ask questiosn in forumes?
+## How to ask questions in forums?
 
 * What steps will reproduce the problem?
 * What is the expected output?
@@ -15,13 +15,13 @@ v What Operating System?
 ## Skills 
 
 * Hacking Skills: 
-        * Willing to fnd answers on own own, 
-        * knowledge about where to find answers on your own, 
-        * unintiidated by new data types or packages, 
-        * unafraid to say "I don;t know the answer", polite but relentless
+        * Willing to find answers on your own, 
+        * Knowledge about where to find answers on your own, 
+        * Unintimidated by new data types or packages, 
+        * Unafraid to say "I don't know the answer", polite but relentless
 * Maths and Statistics Knowledge
 * Traditional Research Skills
-* Substansive Expertise
+* Substantive Expertise
 
 
 ## Initial Steps
@@ -40,7 +40,7 @@ v What Operating System?
 * mkdir to make a directory
 * cd to go to the created directory: NewFolder
 * got init to initiate repo
-* git rempte add origin https:\\github.com\yourUserName\yourNewFolder
+* git remote add origin https:\\github.com\yourUserName\yourNewFolder
 * got clone http:\\github.com\...
 * git add
 * git add -A
@@ -59,6 +59,3 @@ v What Operating System?
  
 * find.package("devtools")
 * install.packages("devtools")
-
-
-
